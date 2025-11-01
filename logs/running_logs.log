@@ -1,3 +1,151 @@
 [2025-10-26 06:25:38,796: INFO: main: welcome to our custom log]
 [2025-10-26 06:32:07,360: INFO: main: welcome to our custom log]
 [2025-10-26 06:32:47,809: INFO: main: welcome to our custom log]
+[2025-10-30 04:30:16,081: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-10-30 04:31:27,143: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-10-30 04:31:27,145: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-10-30 05:42:25,391: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-10-30 05:42:25,395: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-10-30 05:51:34,978: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-10-30 05:51:34,985: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-10-30 05:58:06,416: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-10-30 05:58:06,422: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-10-30 06:02:48,600: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-10-30 06:02:48,609: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-10-30 06:02:48,614: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-10-30 06:05:18,317: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-10-30 06:05:18,322: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-10-30 06:05:18,334: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-10-30 06:05:18,334: INFO: common: created directory at: artifacts]
+[2025-10-30 06:05:18,339: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-10-30 06:19:43,848: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-10-30 06:19:43,857: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-10-30 06:19:43,867: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-10-30 06:19:43,874: INFO: common: created directory at: artifacts]
+[2025-10-30 06:19:43,881: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-10-30 06:24:27,216: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-10-30 06:24:27,222: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-10-30 06:24:27,231: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-10-30 06:24:27,233: INFO: common: created directory at: artifacts]
+[2025-10-30 06:24:27,238: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-10-30 06:24:29,120: INFO: 505601528: artifacts\data_ingestion\data.zip download! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 6EDC:B938A:432166B:473E3C7:69024DEA
+Accept-Ranges: bytes
+Date: Wed, 29 Oct 2025 17:24:58 GMT
+Via: 1.1 varnish
+X-Served-By: cache-lis1490046-LIS
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1761758698.345188,VS0,VE232
+Vary: Authorization,Accept-Encoding
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 34995e49d86b435fde4821b03c3fd283a876c904
+Expires: Wed, 29 Oct 2025 17:29:58 GMT
+Source-Age: 0
+
+]
+[2025-10-29 20:54:43,524: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-10-29 20:54:43,607: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-10-29 20:54:43,624: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-10-29 20:54:43,632: INFO: common: created directory at: artifacts]
+[2025-10-29 20:54:43,635: INFO: common: created directory at: artifacts/data_validation]
+[2025-10-29 20:56:38,815: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-10-29 20:56:38,826: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-10-29 20:56:38,842: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-10-29 20:56:38,851: INFO: common: created directory at: artifacts]
+[2025-10-29 20:56:38,857: INFO: common: created directory at: artifacts/data_validation]
+[2025-10-29 20:58:33,676: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-10-29 20:58:33,687: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-10-29 20:58:33,700: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-10-29 20:58:33,713: INFO: common: created directory at: artifacts]
+[2025-10-29 20:58:33,721: INFO: common: created directory at: artifacts/data_validation]
+[2025-10-30 09:04:15,805: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-10-30 09:04:15,897: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-10-30 09:04:15,954: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-10-30 09:04:15,963: INFO: common: created directory at: artifacts]
+[2025-10-30 09:06:41,634: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-10-30 09:06:41,641: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-10-30 09:06:41,653: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-10-30 09:06:41,661: INFO: common: created directory at: artifacts]
+[2025-10-30 09:06:41,670: INFO: common: created directory at: artifacts/data_transformation]
+[2025-10-30 09:10:44,907: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-10-30 09:10:44,918: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-10-30 09:10:44,932: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-10-30 09:10:44,939: INFO: common: created directory at: artifacts]
+[2025-10-30 09:10:44,947: INFO: common: created directory at: artifacts/data_transformation]
+[2025-10-30 09:11:13,602: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-10-30 09:11:13,611: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-10-30 09:11:13,628: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-10-30 09:11:13,633: INFO: common: created directory at: artifacts]
+[2025-10-30 09:11:13,642: INFO: common: created directory at: artifacts/data_transformation]
+[2025-10-30 09:11:13,894: INFO: 213572657: Splitted data into training and test sets]
+[2025-10-30 09:11:13,899: INFO: 213572657: train.shape]
+[2025-10-30 09:11:13,901: INFO: 213572657: test.shape]
+[2025-10-30 19:39:41,419: INFO: stage_01_data_ingestion: >>>>> stage Data_Ingestion_stage started]
+[2025-10-30 19:39:41,419: ERROR: stage_01_data_ingestion: DataIngestionTrainngPipeline.main() missing 1 required positional argument: 'self']
+Traceback (most recent call last):
+  File "C:\Users\DELL\Documents\End_to_End_machine_learning_project_with_mlflow\src\mlproject\pipeline\stage_01_data_ingestion.py", line 22, in <module>
+    obj.main()
+TypeError: DataIngestionTrainngPipeline.main() missing 1 required positional argument: 'self'
+[2025-10-30 19:40:56,064: INFO: stage_01_data_ingestion: >>>>> stage Data_Ingestion_stage started]
+[2025-10-30 19:40:56,067: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-10-30 19:40:56,067: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-10-30 19:40:56,075: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-10-30 19:40:56,078: INFO: common: created directory at: artifacts]
+[2025-10-30 19:40:56,080: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-10-30 19:40:57,719: INFO: data_ingestion: artifacts\data_ingestion\data.zip download! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 89B1:19CA92:194DC:1B0AD:6903B172
+Accept-Ranges: bytes
+Date: Thu, 30 Oct 2025 18:41:57 GMT
+Via: 1.1 varnish
+X-Served-By: cache-lis1490056-LIS
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1761849717.377345,VS0,VE200
+Vary: Authorization,Accept-Encoding
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: ca4740a5a7496771f4086fcafe5e18bc9044e49e
+Expires: Thu, 30 Oct 2025 18:46:57 GMT
+Source-Age: 0
+
+]
+[2025-10-30 19:40:57,804: INFO: stage_01_data_ingestion: >>>> stage Data_Ingestion_stage completed]
+[2025-11-01 10:25:12,911: INFO: stage_02_data_validation: >>>>>Data_validation_stage started]
+[2025-11-01 10:25:12,947: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-11-01 10:25:12,969: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-11-01 10:25:12,972: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-11-01 10:25:12,972: INFO: common: created directory at: artifacts]
+[2025-11-01 10:25:12,978: INFO: common: created directory at: artifacts/data_validation]
+[2025-11-01 10:25:13,064: INFO: stage_02_data_validation: >>>Data_validation_stage completed]
+[2025-11-01 10:37:58,800: INFO: stage_03_data_transformation: >>>>Data_Transformation_stage has started]
+[2025-11-01 10:37:58,803: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-11-01 10:37:58,807: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-11-01 10:37:58,811: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-11-01 10:37:58,814: INFO: common: created directory at: artifacts]
+[2025-11-01 10:37:58,816: INFO: common: created directory at: artifacts/data_transformation]
+[2025-11-01 10:37:58,943: INFO: data_transformation: Splitted data into training and test sets]
+[2025-11-01 10:37:58,943: INFO: data_transformation: train.shape]
+[2025-11-01 10:37:58,943: INFO: data_transformation: test.shape]
+[2025-11-01 10:37:58,957: INFO: stage_03_data_transformation: >>>>Data_Transformation_stage is completed]
