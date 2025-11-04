@@ -2,13 +2,6 @@ name: CI/CD - Deploy on GCP VM
 
 on:
   push:
-    branches: [main]
-
-jobs:
-  name: workflow
-
-on:
-  push:
     branches:
       - main
     paths-ignore:
