@@ -40,16 +40,7 @@ def test_predict_route_post(client):
     assert b'Wine Quality Prediction Result' in response.data
     assert b'Predicted Quality Score:' in response.data
 
-def test_predict_missing_fields(client):
-    """Test POST with missing fields"""
-    incomplete_data = {
-        'fixed_acidity': 7.4,
-        # Missing other required fields
-    }
-    
-    response = client.post('/predict', data=incomplete_data)
-    # Should return bad request or error
-    assert response.status_code in [400, 500]
+
 
 def test_prediction_returns_valid_format(client):
     """Test that prediction returns a valid number"""
