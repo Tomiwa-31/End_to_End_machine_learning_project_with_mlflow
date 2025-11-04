@@ -1,4 +1,5 @@
-# End_to_End_machine_learning_project_with_mlflow
+# End_to_End_machine_learning_project_wine_quality_prediction_with_mlflow
+
 
 
 
@@ -14,6 +15,7 @@
 7. Update the pipeline 
 8. Update the main.py
 9. Update the app.py
+
 
 
 # How to run?
@@ -88,4 +90,4 @@ set MLFLOW_TRACKING_USERNAME=Tomiwa-31
 
 set MLFLOW_TRACKING_PASSWORD=c215d3db8ce16bbf4e203e713fce988d8a289887
 
-```
+ 76e7177fa1749d418308c043cb888bb52af04c50
