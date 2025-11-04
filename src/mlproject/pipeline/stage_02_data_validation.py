@@ -9,7 +9,7 @@ STAGE_NAME="Data_validation_stage"
 class DataValidationTrainingPipeline():
     def __init__(self):
         pass
-    def main():
+    def main(self):
         try:
             config=ConfigurationManager()
             data_validation_config=config.get_validation_data()
