@@ -1,0 +1,22 @@
+name: CI/CD - Deploy on GCP VM
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  test and deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+    # step 1: checkout code
+    - name: Checkout code
+    - uses: action/checkout@v4
+
+    #step 2: set up python
+    - name: Set up python
+    - uses: action/setup-python@v4
+
+    -name: Install dependencies
+    run: |
+      pip install flask

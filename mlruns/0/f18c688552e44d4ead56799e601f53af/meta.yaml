@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/DELL/Documents/End_to_End_machine_learning_project_with_mlflow/mlruns/0/f18c688552e44d4ead56799e601f53af/artifacts
+end_time: 1762237866362
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f18c688552e44d4ead56799e601f53af
+run_name: serious-bear-821
+run_uuid: f18c688552e44d4ead56799e601f53af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762237846813
+status: 4
+tags: []
+user_id: DELL
