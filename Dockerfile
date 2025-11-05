@@ -1,12 +1,13 @@
 FROM python:3.8-slim-buster
 
-RUN apt update -y && apt install awscli -y
-
 WORKDIR /app
 
-COPY . /app
-
+COPY requirements.txt .
+RUN pip install --upgrade pip
 RUN pip install -r requirements.txt
 
-CMD ["python 3","app.py"]
+COPY . .
 
+EXPOSE 5000
+
+CMD ["python", "app.py"]
