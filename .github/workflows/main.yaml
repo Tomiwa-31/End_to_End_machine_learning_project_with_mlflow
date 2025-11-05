@@ -48,9 +48,11 @@ jobs:
           username: ${{ secrets.GCP_VM_USERNAME }}
           key: ${{ secrets.GCP_VM_SSH_KEY }}
           script: |
-            cd /path/to/your/project
+            cd /home/oladimejitomiwa31_gmail_com/End_to_End_machine_learning_project_with_mlflow
             git pull origin main
-            docker-compose down
-            docker-compose up --build -d
+            docker stop wine-app || true
+            docker rm wine-app || true
+            docker build -t wine-app .
+            docker run -d -p 80:5000 --name wine-app wine-app
           
          
