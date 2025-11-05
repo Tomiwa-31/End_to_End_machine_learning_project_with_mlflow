@@ -48,6 +48,8 @@ def predict():
         return render_template('index.html')
 
 
-if __name__ =='__main__':
-    app.run(port=5000,debug=True)
+if __name__ == '__main__':
+    # For production, use debug=False
+    app.run(host='0.0.0.0', port=5000, debug=False)  # ✅ debug=False in production
+    
 
