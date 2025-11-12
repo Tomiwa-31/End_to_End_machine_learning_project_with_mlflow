@@ -66,28 +66,6 @@ open up you local host and port
 ### dagshub
 [dagshub](https://dagshub.com/)
 
-MLFLOW_TRACKING_URI=https://dagshub.com/Tomiwa-31/End_to_End_machine_learning_project_with_mlflow.mlflow \
-MLFLOW_TRACKING_USERNAME=Tomiwa-31
-MLFLOW_TRACKING_PASSWORD= c215d3db8ce16bbf4e203e713fce988d8a289887
-python script.py
 
-
-JUPYTER NOTEBOOK/Testing/DEVELOPMENT
-
-os.environ["MLFLOW_TRACKING_URI"]="https://dagshub.com/Tomiwa-31/End_to_End_machine_learning_project_with_mlflow.mlflow"
-os.environ["MLFLOW_TRACKING_USERNAME"]="Tomiwa-31"
-os.environ["MLFLOW_TRACKING_PASSWORD"]="c215d3db8ce16bbf4e203e713fce988d8a289887"
-
-
-Run this to export as env variables:
-TERMINAL=PRODUCTION EXECUTION
-
-```bash
-
-set MLFLOW_TRACKING_URI=ttps://dagshub.com/Tomiwa-31/End_to_End_machine_learning_project_with_mlflow.mlflow
-
-set MLFLOW_TRACKING_USERNAME=Tomiwa-31
-
-set MLFLOW_TRACKING_PASSWORD=c215d3db8ce16bbf4e203e713fce988d8a289887
 
  76e7177fa1749d418308c043cb888bb52af04c50
